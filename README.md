@@ -11,7 +11,7 @@ This is my personal portfolio website  to showcase projects, skills, and provide
 
 - **Frontend with React**: The application is built using React, ensuring a responsive and efficient user interface.
 
-- **"Hire Me" Page**: A section for potential clients to connect and collaborate through an easy-to-use contact form.
+- **Hire Me**: A section for potential clients to connect and collaborate through an easy-to-use contact form.
 
 ## Tech Stack
 

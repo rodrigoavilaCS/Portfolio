@@ -1,12 +1,11 @@
 # Portfolio Website
 
-This is a personal portfolio website developed to showcase projects, skills, and provide a "Hire Me" section for potential client collaborations. The site features a sleek dark minimalist theme with glassmorphism design elements and real-time animations, offering a smooth and interactive user experience.
+This is my personal portfolio website  to showcase projects, skills, and provide a "Hire Me" section for potential client collaborations. The site features a sleek dark space theme with glassmorphism design elements and real-time animations, offering a smooth and interactive user experience.
 
 ## Features
 
-- **Dark Minimalist Theme**: A visually appealing interface utilizing dark tones and a clean layout.
+- **Dark Space like Theme**: A visually appealing interface utilizing dark tones and a clean layout.
 
-- **Glassmorphism Design**: Subtle glass-like elements add a modern touch to the UI, enhancing readability and style.
 
 - **Real-time Animations**: Interactive animations provide a dynamic user experience.
 

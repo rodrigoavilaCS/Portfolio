@@ -8,9 +8,9 @@ The original portfolio structure appears to have been scaffolded with an AI-assi
 
 - **Original Author**: Kanish V
 
-- **Original Repository**: [text](https://github.com/kanish-v15/portfolio)
+- **Original Repository**: (https://github.com/kanish-v15/portfolio)
 
-- **Original Live Site**: [text](https://kanishv.netlify.app/)
+- **Original Live Site**: (https://kanishv.netlify.app/)
 
 ## Features
 

@@ -25,45 +25,33 @@ const NavBar = () => {
           <a href="#" className="group relative">
             <div className="text-2xl font-bold relative">
               <span className="animate-signature-draw inline-block">
-                <span className="bg-gradient-to-r from-nebulaPink via-cosmicBlue to-violet-500 text-transparent bg-clip-text">
-                  KV
+                <span className="bg-gradient-to-r from-orange-500 to-cosmicBlue text-transparent bg-clip-text">
+                  RA
                 </span>
               </span>
-              <div className="absolute -bottom-1 left-0 w-0 h-0.5 bg-gradient-to-r from-nebulaPink via-cosmicBlue to-violet-500 group-hover:w-full transition-all duration-500"></div>
+              <div className="absolute -bottom-1 left-0 w-0 h-0.5 bg-gradient-to-r from-orange-500 to-cosmicBlue group-hover:w-full transition-all duration-500"></div>
             </div>
           </a>
           <div className="hidden md:flex space-x-8">
             <a
               href="#about"
-              className="text-gray-300 hover:text-nebulaPink transition-colors"
+              className="text-gray-300 hover:text-cosmicBlue transition-colors"
             >
               About
             </a>
             <a
               href="#projects"
-              className="text-gray-300 hover:text-nebulaPink transition-colors"
+              className="text-gray-300 hover:text-cosmicBlue transition-colors"
             >
               Projects
             </a>
             <a
               href="#skills"
-              className="text-gray-300 hover:text-nebulaPink transition-colors"
+              className="text-gray-300 hover:text-cosmicBlue transition-colors"
             >
               Skills
             </a>
-            <a
-              href="#contact"
-              className="text-gray-300 hover:text-nebulaPink transition-colors"
-            >
-              Contact
-            </a>
           </div>
-          <a
-            href="#contact"
-            className="bg-gradient-to-r from-nebulaPink to-cosmicBlue text-white px-6 py-2 rounded-full hover:opacity-90 transition-opacity"
-          >
-            Hire Me
-          </a>
         </div>
       </div>
     </nav>

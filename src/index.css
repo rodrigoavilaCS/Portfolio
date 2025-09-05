@@ -15,12 +15,12 @@
 @keyframes glow {
   0%,
   100% {
-    text-shadow: 0 0 20px rgba(255, 97, 216, 0.5),
-      0 0 40px rgba(76, 201, 240, 0.3);
+    text-shadow: 0 0 40px rgba(255, 255, 255, 0.5),
+      0 0 60px rgba(255, 255, 255, 0.5);
   }
   50% {
-    text-shadow: 0 0 40px rgba(255, 97, 216, 0.8),
-      0 0 60px rgba(76, 201, 240, 0.5);
+    text-shadow: 0 0 40px rgba(255, 255, 255, 0.5),
+      0 0 60px rgb(255, 255, 255, 0.5);
   }
 }
 
@@ -67,7 +67,7 @@
 }
 
 .animate-glow {
-  animation: glow 1s ease-in-out infinite;
+  animation: glow 10s ease-in-out infinite;
 }
 
 .animate-float-slow {
@@ -75,11 +75,11 @@
 }
 
 .animate-bounce-slow {
-  animation: bounce-slow 3s ease-in-out infinite;
+  animation: bounce-slow 6s ease-in-out infinite;
 }
 
 .animate-fade-in {
-  animation: fade-in 1s ease-out forwards;
+  animation: fade-in 6s ease-out forwards;
 }
 
 /* Add a custom scrollbar */
@@ -92,10 +92,10 @@
 }
 
 ::-webkit-scrollbar-thumb {
-  background: linear-gradient(to bottom, #ff61d8, #4cc9f0);
+  background: linear-gradient(to bottom, rgb(255, 81, 0), rgb(76, 201, 240));
   border-radius: 4px;
 }
 
 ::-webkit-scrollbar-thumb:hover {
-  background: linear-gradient(to bottom, #ff61d8, #4cc9f0);
+  background: linear-gradient(to bottom, rgb(255, 81, 0), rgb(76, 201, 240));
 }

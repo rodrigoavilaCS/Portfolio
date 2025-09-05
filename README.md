@@ -1,17 +1,24 @@
 # Portfolio Website
 
-This is my personal portfolio website  to showcase projects, skills, and provide a "Hire Me" section for potential client collaborations. The site features a sleek dark space theme with glassmorphism design elements and real-time animations, offering a smooth and interactive user experience.
+This is my personal portfolio website to showcase projects, skills, and experiences as a backend developer. It also allows potential client collaborations through an email contact form. The site is heavily inspired by Kanish V’s portfolio. I used his source code as a template in order implement changes that reflect my own content, projects, and styling to serve as my personal portfolio.
+
+# Attribution
+
+The original portfolio structure appears to have been scaffolded with an AI-assisted tool. All credit for the repo and customization belongs to Kanish V.
+
+- **Original Author**: Kanish V
+
+- **Original Repository**: [text](https://github.com/kanish-v15/portfolio)
+
+- **Original Live Site**: [text](https://kanishv.netlify.app/)
 
 ## Features
 
-- **Dark Space like Theme**: A visually appealing interface utilizing dark tones and a clean layout.
+- **React Frontend**: Clean, responsive UI built with React.
 
+- **Expansive**: Easy to maintain and extend as I grow my career.
 
-- **Real-time Animations**: Interactive animations provide a dynamic user experience.
-
-- **Frontend with React**: The application is built using React, ensuring a responsive and efficient user interface.
-
-- **Hire Me**: A section for potential clients to connect and collaborate through an easy-to-use contact form.
+- **Contact Me**: A section for potential clients to connect through filling out a contact form.
 
 ## Tech Stack
 

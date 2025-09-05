@@ -1,4 +1,3 @@
-import React from 'react';
 import { ExternalLink, Github } from 'lucide-react';
 
 interface ProjectCardProps {
@@ -22,10 +21,10 @@ const ProjectCard = ({ title, description, image, tags, liveLink, codeLink }: Pr
         />
       </div>
       <div className="p-6 relative z-20">
-        <h3 className="text-xl font-semibold mb-2 group-hover:text-transparent group-hover:bg-clip-text group-hover:bg-gradient-to-r group-hover:from-nebulaPink group-hover:to-cosmicBlue transition-colors duration-300">
+        <h3 className="text-xl font-semibold mb-2 group-hover:text-transparent group-hover:bg-clip-text group-hover:bg-gradient-to-r group-hover:from-cosmicBlue group-hover:to-cosmicBlue transition-colors duration-300">
           {title}
         </h3>
-        <p className="text-gray-400 mb-4 line-clamp-2">{description}</p>
+        <p className="text-gray-400 mb-4 line-clamp-4">{description}</p>
         <div className="flex flex-wrap gap-2 mb-4">
           {tags.map((tag) => (
             <span 

@@ -116,7 +116,7 @@ function App() {
               <div className="relative rounded-2xl overflow-hidden">
                 <div className="absolute inset-0 bg-gradient-to-r from-nebulaPink/20 to-cosmicBlue/20 opacity-0 group-hover:opacity-100 transition-opacity duration-500"></div>
                 <img
-                  src="https://images.unsplash.com/photo-1571171637578-41bc2dd41cd2?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                  src="src/assets/AboutMe.jpeg"
                   alt="Profile"
                   className="rounded-2xl shadow-2xl transform group-hover:scale-105 transition-transform duration-500"
                 />
@@ -129,8 +129,9 @@ function App() {
               <p className="text-bold/80 leading-relaxed">
                 I'm a backend developer with a B.S. in Computer Science 
                 from the University of Florida. I work with Java, Spring Boot, 
-                and SQL to build scalable, reliable systems—and I enjoy solving 
+                and SQL to build scalable, reliable systems. I enjoy solving 
                 problems, learning new things, and creating software that makes a difference.
+                Some of my hobbies outside of tech include gaming, music, and racing.
               </p>
               <div className="grid grid-cols-2 gap-4">
                 <div className="group bg-deepSpace/50 border border-cosmicBlue/20 p-6 rounded-lg backdrop-blur-sm transform hover:scale-105 transition-all duration-300">

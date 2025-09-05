@@ -116,7 +116,7 @@ function App() {
               <div className="relative rounded-2xl overflow-hidden">
                 <div className="absolute inset-0 bg-gradient-to-r from-nebulaPink/20 to-cosmicBlue/20 opacity-0 group-hover:opacity-100 transition-opacity duration-500"></div>
                 <img
-                  src="src/assets/AboutMe.jpeg"
+                  src="/AboutMe.jpeg"
                   alt="Profile"
                   className="rounded-2xl shadow-2xl transform group-hover:scale-105 transition-transform duration-500"
                 />
